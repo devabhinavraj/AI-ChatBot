@@ -43,13 +43,12 @@ Whether you're a beginner exploring LLMs or a developer building conversational 
 ## 📂 Project Structure
 
 ```
-AI-ChatBot/
+ChatBot/
 │
 ├── ChatBot.py
 ├── .env
 ├── requirements.txt
 ├── README.md
-└── template.py
 ```
 
 ---
