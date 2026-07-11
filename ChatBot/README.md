@@ -92,7 +92,7 @@ pip install huggingface_hub
 Create a **.env** file in the project directory.
 
 ```env
-HUGGINGFACEHUB_API_TOKEN=your_api_key_here
+HUGGINGFACEHUB_API_TOKEN= HUGGINGFACE_API_KEYS
 ```
 
 ---
