@@ -59,7 +59,7 @@ AI-ChatBot/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/langchain-ai-chatbot.git
+git clone https://github.com/devabhinavraj/AI-ChatBot.git
 ```
 
 Move into the project directory
